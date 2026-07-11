@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=CC0000&center=true&vCenter=true&width=680&lines=Following+the+Code+of+Harry+%F0%9F%A9%B8;Cybersecurity+Enthusiast+%F0%9F%94%90;Digital+Forensics+Investigator+%F0%9F%94%AC;Threat+Intelligence+%26+OSINT+%F0%9F%95%B5%EF%B8%8F;I+Analyze+Blood...+and+Packets.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=CC0000&center=true&vCenter=true&width=680&lines=Following+the+Code+%F0%9F%A9%B8;Cybersecurity+Enthusiast+%F0%9F%94%90;Digital+Forensics+Investigator+%F0%9F%94%AC;Threat+Intelligence+%26+OSINT+%F0%9F%95%B5%EF%B8%8F;I+Analyze+Network...+and+Packets.)](https://git.io/typing-svg)
 
 </div>
 
@@ -96,7 +96,7 @@
 
 ---
 
-## 📊 Case Files (GitHub Stats)
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -109,7 +109,7 @@
 
 ---
 
-## 🏆 Trophies (Blood Slides)
+## 🏆 Trophies
 
 <div align="center">
 
@@ -119,7 +119,7 @@
 
 ---
 
-## 📈 Activity (The Kill Room Log)
+## 📈 Activity 
 
 <div align="center">
 
