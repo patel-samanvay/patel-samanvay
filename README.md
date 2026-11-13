@@ -7,7 +7,7 @@
 
 <div align="center">
 
-# JOE GOLDBERG
+# SAMANVAY PATEL
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=Cybersecurity+Researcher;Digital+Forensics+Enthusiast;Cyber+Threat+Intelligence;Malware+Analysis+%7C+Security+Research;Building+Secure+Digital+Systems" />
 
