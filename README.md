@@ -9,9 +9,7 @@
 
 # SAMANVAY PATEL
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=Cybersecurity+Researcher;Digital+Forensics+Enthusiast;Cyber+Threat+Intelligence;Malware+Analysis+%7C+Security+Research;Building+Secure+Digital+Systems" />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00ff41&style=flat-square" />
 
 </div>
 
@@ -56,51 +54,6 @@ I believe in learning through practical implementation, technical research, and 
 
 Co-author of a chapter published in the Scopus-indexed book *Sustainable Blind Quantum Computing*, contributing primarily to security and quantum cryptography aspects.
 
-## `./tech_stack.sh`
-
-<div align="center">
-
-### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,bash" />
-
-### Operating Systems & Tools
-
-<img src="https://skillicons.dev/icons?i=linux,kali,windows,git,github,vscode" />
-
-### Technologies & Research
-
-<img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch,docker,mysql" />
-
-</div>
-
----
-
-## `./github_stats.sh`
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patel-samanvay&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" />
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=patel-samanvay&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
-
----
-
-## `./contribution_activity.sh`
-
-<div align="center">
-
-<!-- Requires the GitHub Actions snake workflow described below -->
-
-<img src="https://raw.githubusercontent.com/patel-samanvay/patel-samanvay/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
----
 
 ## `./connect.sh`
 
@@ -124,16 +77,4 @@ Co-author of a chapter published in the Scopus-indexed book *Sustainable Blind Q
 
 <div align="center">
 
-```text
-[ SYSTEM STATUS: ONLINE ]
 
-Understand the adversary.
-Investigate the evidence.
-Secure the infrastructure.
-
-> End of transmission.
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003300&height=100&section=footer" />
-
-</div>
